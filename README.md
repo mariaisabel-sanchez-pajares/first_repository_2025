@@ -1,8 +1,17 @@
+
 # My first web
 
-Este es el repositorio del primer repositorio de mi primera pagina web
+Este es el repositorio de mi primera pagina web
 
-## Actions 
+## Contenido
+- Index: Página principal
+- About: Página informativa sobre la web
+- Style: 'Decoración' de la página 
+- Readme
 
-Añadida la estructura basica de un archivo html
-Añadido el archivo README 
+## Lenguajes usados
+- HTML
+- CSS (con ayuda de chatgpt y de videos en youtube)
+
+## Autor
+María Isabel Sánchez Pajares, primero de ingeniría informática B
