@@ -3,15 +3,17 @@
 
 Este es el repositorio de mi primera pagina web
 
-## Contenido
-- Index: Página principal
-- About: Página informativa sobre la web
-- Style: 'Decoración' de la página 
-- Readme
+## Autor
+María Isabel Sánchez Pajares, primero de ingeniría informática B
 
 ## Lenguajes usados
 - HTML
-- CSS (con ayuda de chatgpt y de videos en youtube)
+- CSS 
 
-## Autor
-María Isabel Sánchez Pajares, primero de ingeniría informática B
+## Dificultades
+- La parte de CSS la he realizado con chatgpt y con videos de youtube 
+- Al principio tuve muchas complicaciones a la hora de subir los ficheros a github y lo solucioné mandando el error que me aparecía a chatgpt y siguiendo los multiples pasos que me daba para solucionarlo
+
+## Facilidades
+- A la hora de saber qué ficheros tenía que añadir y saber cómo organizarlos me ayudó mucho la estructura publicada en las instrucciones de la tarea en canvas
+- La parte del código html me resultó bastante sencillo de hacer ya que es un 'lenguaje' fácil comparado con lo que me he acostumbrado haciendo ejercicios en C, con una estructura simple y facil de entender
